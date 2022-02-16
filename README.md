@@ -1,4 +1,4 @@
-# setup-macos-server
+# Setup macOS Server
 #### By: [Daniel Nazarian](https://danielnazarian) 🐧
 ##### Contact me at <dnaz@danielnazarian.com>
 
