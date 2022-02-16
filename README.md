@@ -5,7 +5,7 @@
 -------------------------------------------------------
 
 ### dd.conf
-get login/password from Google Domains
+Get login/password from Google Domains. Might be some funny business with quotes and all.
 
 -------------------------------------------------------
 ##### [https://danielnazarian.com](https://danielnazarian.com)
